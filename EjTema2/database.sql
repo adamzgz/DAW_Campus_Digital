@@ -1,0 +1,7 @@
+CREATE DATABASE agenda;
+USE agenda;
+CREATE TABLE contactos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL UNIQUE,
+    telefono VARCHAR(20)
+);
