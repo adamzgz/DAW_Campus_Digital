@@ -53,7 +53,7 @@ Este es un proyecto simple de una agenda web desarrollada en **PHP y MySQL**. Pe
 5. **Accede al proyecto desde tu navegador web**:
 
     ```bash
-    http://localhost/DAW_Campus_Digital/EjTema2/
+    http://localhost/EjTema2/
     ```
 
 ## Funcionalidades
